@@ -1,0 +1,29 @@
+﻿  main.c
+c:\users\student\desktop\sppurv2\orm_project\sender\pcap-project\project\main.c(125): warning C4020: 'read_from_file': too many actual parameters
+c:\users\student\desktop\sppurv2\orm_project\sender\pcap-project\project\main.c(149): warning C4113: 'void *(__cdecl *)(void *,int)' differs in parameter lists from 'void *(__cdecl *)(void *)'
+c:\users\student\desktop\sppurv2\orm_project\sender\pcap-project\project\main.c(149): warning C4020: 'pthread_create': too many actual parameters
+c:\users\student\desktop\sppurv2\orm_project\sender\pcap-project\project\main.c(71): warning C4101: 'sentBytes': unreferenced local variable
+c:\users\student\desktop\sppurv2\orm_project\sender\pcap-project\project\main.c(70): warning C4101: 'device_number': unreferenced local variable
+c:\users\student\desktop\sppurv2\orm_project\sender\pcap-project\project\main.c(69): warning C4101: 'ethernet_header_size': unreferenced local variable
+c:\users\student\desktop\sppurv2\orm_project\sender\pcap-project\project\main.c(66): warning C4101: 'i': unreferenced local variable
+c:\users\student\desktop\sppurv2\orm_project\sender\pcap-project\project\main.c(175): warning C4013: 'setup_header_ethernet' undefined; assuming extern returning int
+c:\users\student\desktop\sppurv2\orm_project\sender\pcap-project\project\main.c(175): warning C4047: '=': 'unsigned char *' differs in levels of indirection from 'int'
+c:\users\student\desktop\sppurv2\orm_project\sender\pcap-project\project\main.c(181): warning C4098: 'sendFirstTwoPackets': 'void' function returning a value
+c:\users\student\desktop\sppurv2\orm_project\sender\pcap-project\project\main.c(188): warning C4047: '=': 'unsigned char *' differs in levels of indirection from 'int'
+c:\users\student\desktop\sppurv2\orm_project\sender\pcap-project\project\main.c(193): warning C4098: 'sendFirstTwoPackets': 'void' function returning a value
+c:\users\student\desktop\sppurv2\orm_project\sender\pcap-project\project\main.c(217): warning C4098: 'ack_handler_ethernet': 'void' function returning a value
+c:\users\student\desktop\sppurv2\orm_project\sender\pcap-project\project\main.c(220): warning C4293: '<<': shift count negative or too big, undefined behavior
+c:\users\student\desktop\sppurv2\orm_project\sender\pcap-project\project\main.c(219): warning C4090: 'initializing': different 'const' qualifiers
+c:\users\student\desktop\sppurv2\orm_project\sender\pcap-project\project\main.c(252): warning C4098: 'ack_handler_wifi': 'void' function returning a value
+c:\users\student\desktop\sppurv2\orm_project\sender\pcap-project\project\main.c(255): warning C4293: '<<': shift count negative or too big, undefined behavior
+c:\users\student\desktop\sppurv2\orm_project\sender\pcap-project\project\main.c(254): warning C4090: 'initializing': different 'const' qualifiers
+c:\users\student\desktop\sppurv2\orm_project\sender\pcap-project\project\main.c(331): warning C4013: 'setup_header_wifi' undefined; assuming extern returning int
+c:\users\student\desktop\sppurv2\orm_project\sender\pcap-project\project\main.c(331): warning C4047: '=': 'unsigned char *' differs in levels of indirection from 'int'
+c:\users\student\desktop\sppurv2\orm_project\sender\pcap-project\project\main.c(375): warning C4047: '=': 'unsigned char *' differs in levels of indirection from 'int'
+c:\users\student\desktop\sppurv2\orm_project\sender\pcap-project\project\main.c(416): warning C4047: '=': 'unsigned char *' differs in levels of indirection from 'int'
+c:\users\student\desktop\sppurv2\orm_project\sender\pcap-project\project\main.c(452): warning C4047: '=': 'unsigned char *' differs in levels of indirection from 'int'
+c:\users\student\desktop\sppurv2\orm_project\sender\pcap-project\project\main.c(472): warning C4716: 'ethernetThreadFunction': must return a value
+c:\users\student\desktop\sppurv2\orm_project\sender\pcap-project\project\main.c(396): warning C4716: 'wifiThreadFunction': must return a value
+file_manipulation.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  Project.vcxproj -> C:\Users\student\Desktop\SPPURV2\ORM_project\Sender\Pcap-Project\Project\.\Debug\Project.exe
+  Project.vcxproj -> .\Debug\Project.pdb (Full PDB)
